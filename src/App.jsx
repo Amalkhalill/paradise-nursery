@@ -1,4 +1,4 @@
-import "./app.css";
+import "./App.css";
 import { Routes, Route, useNavigate } from "react-router-dom";
 
 import ProductListing from "./components/ProductListing";
