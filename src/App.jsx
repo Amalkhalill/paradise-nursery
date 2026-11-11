@@ -5,7 +5,6 @@ import ProductListing from "./components/ProductListing";
 import Navbar from "./components/Navbar";
 import CartItem from "./components/CartItem";
 import AboutUs from "./components/AboutUs";
-import "./app.css"
 
 
 const Home = () => {
